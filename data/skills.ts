@@ -1,0 +1,66 @@
+import type { SkillCategory } from '@/types';
+
+export const skills: SkillCategory[] = [
+  {
+    id: 'frontend',
+    title: { en: 'Frontend', ru: 'Frontend' },
+    skills: [
+      'React 19',
+      'Next.js 15 (App Router)',
+      'TypeScript',
+      'Redux',
+      'Module Federation',
+      'JavaScript (ES2024)',
+      'HTML5 & CSS3',
+      'Tailwind CSS',
+      'shadcn/ui',
+      'Framer Motion',
+      'PWA',
+      'Web Workers',
+      'SSR / CSR',
+    ],
+  },
+  {
+    id: 'backend-integration',
+    title: { en: 'Backend & Integration', ru: 'Backend и интеграции' },
+    skills: [
+      'REST API',
+      'WebSocket',
+      'Supabase (Auth, PostgreSQL, RLS)',
+      'Zod',
+      'npm package publishing',
+    ],
+  },
+  {
+    id: 'tools',
+    title: { en: 'Tools & Workflow', ru: 'Инструменты' },
+    skills: [
+      'Git & GitHub',
+      'GitLab',
+      'Jira',
+      'Confluence',
+      'Vercel',
+      'Vitest',
+      'Playwright',
+      'Testing Library',
+      'ESLint',
+      'Webpack / Vite',
+      'Storybook',
+      'Figma',
+      'Agile / Scrum',
+      'CI/CD',
+    ],
+  },
+  {
+    id: 'other',
+    title: { en: 'Other', ru: 'Другое' },
+    skills: [
+      'i18n (i18next)',
+      'Accessibility (a11y)',
+      'SEO & Open Graph',
+      'Recharts',
+      'Chart.js',
+      'Leaflet / react-leaflet',
+    ],
+  },
+];

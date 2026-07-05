@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "experience": "Опыт",
+    "projects": "Проекты",
+    "skills": "Навыки",
+    "education": "Образование",
+    "contact": "Контакты"
+  },
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "Юлия",
+    "title": "Middle Frontend Engineer",
+    "subtitle": "React · Next.js · TypeScript",
+    "summary": "Middle Frontend Engineer — днём fintech-интерфейсы, ночью open-source pet-проекты. Разрабатываю frontend для банковских и биржевых продуктов (NDA) и делаю full-stack проекты — от climate tech и social impact до иммиграционных инструментов — с упором на TypeScript, UX и реальную пользу.",
+    "cta_projects": "Смотреть работы",
+    "cta_cv": "Скачать резюме",
+    "cta_contact": "Связаться"
+  },
+  "about": {
+    "title": "Обо мне",
+    "p1": "Пишу интерфейсы. Магистратура по приборостроению и бакалавриат IT — и для меня экран работает как прибор: показывает, что происходит, и не мешает человеку.",
+    "p2": "Работаю Middle Frontend Engineer в аутсорсинговой fintech-компании — разрабатываю frontend для банковских и биржевых продуктов (детали клиентов под NDA). Делаю pixel-perfect вёрстку по утверждённым макетам, интеграцию с backend через REST API, real-time рыночные данные через WebSocket и электронное подписание банковских документов. Стек: React, TypeScript, Redux, Module Federation 5, Vitest, Playwright.",
+    "p3": "Вне работы создаю open-source продукты с реальной пользой: EcoTrackr для учёта углеродного следа (PWA, Gemini AI, Web Workers и @ecotrackr/co2-calculator на npm), VisaGuide для подготовки к визе в США (rule engine, CMS-админка, PDF-экспорт, двуязычная PWA) и Lockbox — privacy-first хранилище для людей в опасной ситуации (zero-identity auth, SHA-256, Supabase RLS).",
+    "p4": "В side-проектах реализовала оптимизацию первой загрузки через code splitting, tree-shakeable npm-модули, server-side Gemini AI routes с graceful fallback, аналитические дашборды с графиками и heatmap, а также multi-step form UX с валидацией на Zod."
+  },
+  "showcase": {
+    "eyebrow": "Избранные работы",
+    "title": "Проекты, которые я создаю и деплою",
+    "subtitle": "Full-stack приложения на Next.js с live demo — от climate tech до social impact и иммиграционных инструментов."
+  },
+  "experience": {
+    "title": "Опыт работы",
+    "subtitle": "3+ года разработки production-приложений"
+  },
+  "projects": {
+    "title": "Избранные проекты",
+    "subtitle": "Open-source библиотеки и дополнительные проекты",
+    "view_all": "Все проекты",
+    "case_study": "Case Study",
+    "live_demo": "Live Demo",
+    "github": "GitHub",
+    "npm": "npm",
+    "coming_soon": "Скоро",
+    "technologies": "Технологии",
+    "achievements": "Ключевые достижения",
+    "back": "Назад к проектам"
+  },
+  "skills": {
+    "title": "Навыки",
+    "subtitle": "Технологии, с которыми работаю ежедневно"
+  },
+  "education": {
+    "title": "Образование"
+  },
+  "contact": {
+    "title": "Контакты",
+    "subtitle": "Давайте создадим что-то meaningful вместе",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "form_name": "Ваше имя",
+    "form_email": "Email",
+    "form_message": "Сообщение",
+    "form_send": "Отправить",
+    "form_note": "Или напишите напрямую через email или LinkedIn"
+  },
+  "footer": {
+    "built_with": "Сделано на Next.js 15, TypeScript & Tailwind CSS",
+    "rights": "Все права защищены"
+  },
+  "theme": {
+    "light": "Светлая",
+    "dark": "Тёмная",
+    "toggle": "Переключить тему"
+  },
+  "lang": {
+    "en": "EN",
+    "ru": "RU",
+    "switch": "Переключить язык"
+  }
+}

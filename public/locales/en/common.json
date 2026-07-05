@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Julie",
+    "title": "Middle Frontend Engineer",
+    "subtitle": "React · Next.js · TypeScript",
+    "summary": "Middle Frontend Engineer — fintech interfaces by day, open-source side projects by night. I build banking and exchange frontends for outsourcing clients (under NDA) and ship full-stack products from climate tech and social impact to immigration tools — with a focus on TypeScript, polished UX, and real-world impact.",
+    "cta_projects": "Explore My Work",
+    "cta_cv": "Download CV",
+    "cta_contact": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "I build interfaces. With a Master's in Instrumentation Engineering and a Bachelor's in IT, I see every screen as an instrument: it should reflect what's actually going on — and get out of the user's way.",
+    "p2": "As a Middle Frontend Engineer at an outsourcing fintech company, I develop frontend for banking and stock exchange products (client details under NDA). I implement pixel-accurate UI from approved mockups, integrate backends via REST API, stream real-time market data over WebSocket, and build electronic signing flows for banking documents. The stack includes React, TypeScript, Redux, Module Federation 5, Vitest, and Playwright.",
+    "p3": "Outside work, I build open-source products that solve real problems: EcoTrackr for carbon footprint tracking (PWA, Gemini AI, Web Workers, and @ecotrackr/co2-calculator on npm), VisaGuide for US visa preparation (rule engine, CMS admin, PDF export, bilingual PWA), and Lockbox — a privacy-first vault for people in dangerous situations (zero-identity auth, SHA-256, Supabase RLS).",
+    "p4": "Across side projects I've shipped initial-load optimization with code splitting, tree-shakeable npm modules, server-side Gemini AI routes with graceful fallback, analytics dashboards with charts and heatmaps, and multi-step form UX with Zod validation."
+  },
+  "showcase": {
+    "eyebrow": "Selected work",
+    "title": "Projects I build & ship",
+    "subtitle": "Full-stack Next.js apps with live demos — from climate tech to social impact and immigration tools."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "3+ years of building production web applications"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Open-source libraries and additional work",
+    "view_all": "View All Projects",
+    "case_study": "Case Study",
+    "live_demo": "Live Demo",
+    "github": "GitHub",
+    "npm": "npm",
+    "coming_soon": "Coming Soon",
+    "technologies": "Technologies",
+    "achievements": "Key Achievements",
+    "back": "Back to Projects"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I work with daily"
+  },
+  "education": {
+    "title": "Education"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's build something meaningful together",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_message": "Message",
+    "form_send": "Send Message",
+    "form_note": "Or reach out directly via email or LinkedIn"
+  },
+  "footer": {
+    "built_with": "Built with Next.js 15, TypeScript & Tailwind CSS",
+    "rights": "All rights reserved"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle theme"
+  },
+  "lang": {
+    "en": "EN",
+    "ru": "RU",
+    "switch": "Switch language"
+  }
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Julie — Resume</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 24px; color: #111; line-height: 1.5; }
+    h1 { font-size: 28px; margin-bottom: 4px; }
+    h2 { font-size: 16px; color: #16a34a; border-bottom: 2px solid #16a34a; padding-bottom: 4px; margin-top: 28px; }
+    .subtitle { color: #555; font-size: 14px; }
+    .contact { font-size: 13px; color: #444; margin: 12px 0 24px; }
+    ul { padding-left: 20px; }
+    li { margin-bottom: 6px; font-size: 14px; }
+    .skills { display: flex; flex-wrap: wrap; gap: 6px; }
+    .skill { background: #f0fdf4; color: #166534; padding: 2px 10px; border-radius: 12px; font-size: 12px; }
+    @media print { body { margin: 0; } }
+  </style>
+</head>
+<body>
+  <h1>Julie</h1>
+  <p class="subtitle">Middle Frontend Engineer | React · Next.js · TypeScript</p>
+  <p class="contact">
+    julie_sakura@proton.me · github.com/CodingJulie · linkedin.com/in/julia-trifonova
+  </p>
+
+  <h2>Summary</h2>
+  <p>Middle Frontend Engineer — fintech interfaces by day, open-source side projects by night. Frontend for banking and stock exchange products (NDA). Creator of EcoTrackr, VisaGuide, Lockbox, and @ecotrackr/co2-calculator. Background in Instrumentation Engineering + IT.</p>
+
+  <h2>Experience</h2>
+  <p><strong>Middle Frontend Engineer</strong> — Outsourcing Fintech (NDA) · 2023 — Present</p>
+  <ul>
+    <li>Pixel-accurate banking and exchange UI from approved design mockups</li>
+    <li>Backend integration via REST API and real-time market data via WebSocket</li>
+    <li>Electronic signing flows for banking documents</li>
+    <li>Microfrontend modules with Module Federation 5 and Redux global state</li>
+    <li>Vitest unit tests and Playwright e2e coverage</li>
+  </ul>
+
+  <h2>Featured Projects</h2>
+  <p><strong>EcoTrackr</strong> — Full-stack PWA for carbon footprint tracking (Next.js 15, Supabase, Gemini AI, PWA)</p>
+  <p><strong>VisaGuide</strong> — US visa preparation tool with rule engine, CMS admin, and PDF export</p>
+  <p><strong>Lockbox</strong> — Privacy-first vault with zero-identity auth and Supabase RLS</p>
+  <p><strong>@ecotrackr/co2-calculator</strong> — Open-source React npm package for CO₂e calculations</p>
+
+  <h2>Skills</h2>
+  <div class="skills">
+    <span class="skill">React</span><span class="skill">Next.js 15</span><span class="skill">TypeScript</span>
+    <span class="skill">Redux</span><span class="skill">Module Federation</span><span class="skill">Tailwind CSS</span>
+    <span class="skill">Supabase</span><span class="skill">PWA</span><span class="skill">WebSocket</span>
+    <span class="skill">Vitest</span><span class="skill">Playwright</span><span class="skill">Zod</span>
+    <span class="skill">i18n</span>
+  </div>
+
+  <h2>Education</h2>
+  <p><strong>M.Sc. Instrumentation Engineering</strong> — 2017–2019</p>
+  <p><strong>B.Sc. Information Technology</strong> — 2013–2017</p>
+
+  <script>window.onload = () => window.print();</script>
+</body>
+</html>
