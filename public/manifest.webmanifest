@@ -1,0 +1,32 @@
+{
+  "name": "Julie — Portfolio",
+  "short_name": "JT Portfolio",
+  "description": "Middle Frontend Engineer — Fintech & Open Source",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1ca54e",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["portfolio", "business"],
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

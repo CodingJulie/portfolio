@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Julie",
+    "title": "Middle Frontend Engineer",
+    "subtitle": "React · Next.js · TypeScript",
+    "summary": "Middle Frontend Engineer — fintech interfaces by day, open-source side projects by night. I build banking and exchange frontends for outsourcing clients, and personal full-stack apps — a CO₂e tracker, a privacy vault, and a visa guide — with a focus on TypeScript and UX.",
+    "cta_projects": "Explore My Work",
+    "cta_cv": "Download CV",
+    "cta_contact": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "I build interfaces. With a Master's in Instrumentation Engineering and a Bachelor's in IT, I see every screen as an instrument: it should reflect what's actually going on — and get out of the user's way.",
+    "p2": "As a Middle Frontend Engineer at an outsourcing fintech company, I develop frontend for banking and stock exchange products. I implement pixel-accurate UI from approved mockups, integrate backends via REST API, stream real-time market data over WebSocket, and build electronic signing flows for banking documents. The stack includes React, TypeScript, Redux, Module Federation 5, Vitest, and Playwright.",
+    "p3": "Outside work I build open-source side projects: EcoTrackr (PWA to log activities and estimate CO₂e — Gemini, Web Workers, @ecotrackr/co2-calculator on npm), VisaGuide for US visa prep (rule engine, CMS admin, PDF export, bilingual PWA), and Lockbox — a privacy-first vault with zero-identity auth (AES-256-GCM, Argon2id, Supabase RLS).",
+    "p4": "Across side projects I've shipped initial-load optimization with code splitting, server-side Gemini AI routes with graceful fallback, analytics dashboards with charts and heatmaps, and multi-step form UX with Zod validation."
+  },
+  "showcase": {
+    "eyebrow": "Selected work",
+    "title": "Projects I build & ship",
+    "subtitle": "Full-stack Next.js side projects with live demos — CO₂e tracker, privacy vault, visa guide."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "3+ years of building production web applications"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Open-source libraries and additional work",
+    "view_all": "View All Projects",
+    "case_study": "Case Study",
+    "live_demo": "Live Demo",
+    "github": "GitHub",
+    "npm": "npm",
+    "coming_soon": "Coming Soon",
+    "technologies": "Technologies",
+    "achievements": "Key Achievements",
+    "back": "Back to Projects"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I work with daily"
+  },
+  "education": {
+    "title": "Education"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's build something meaningful together",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_message": "Message",
+    "form_send": "Send Message",
+    "form_note": "Or reach out directly via email or LinkedIn"
+  },
+  "footer": {
+    "built_with": "Built with Next.js 15, TypeScript & Tailwind CSS",
+    "rights": "All rights reserved"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle theme"
+  },
+  "lang": {
+    "en": "EN",
+    "ru": "RU",
+    "switch": "Switch language"
+  }
+}
